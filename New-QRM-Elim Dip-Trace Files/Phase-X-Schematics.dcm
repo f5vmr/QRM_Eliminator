@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DILdpdt
+D DIP Size Package
+K relay monostable
+$ENDCMP
+#
+$CMP G2RLdpdt
+D DIP Size Package
+K relay monostable
+$ENDCMP
+#
+$CMP L_Core_Iron_Coupled-tap
+D Coupled inductor with iron core
+K inductor choke coil reactor magnetic coupled
+F ~
+$ENDCMP
+#
+#End Doc Library
